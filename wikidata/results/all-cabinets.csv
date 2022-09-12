@@ -1,1 +1,12 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q105987268,1st Cabinet of North Korea,,,,,,,,,,,,,,,Q105987276,2nd Cabinet of North Korea
+,Q105987276,2nd Cabinet of North Korea,,,,,,,,,,,,,Q105987268,1st Cabinet of North Korea,Q106013933,3rd Cabinet of North Korea
+,Q106013864,4th Cabinet of North Korea,,,,,,,,,,,,,Q106013933,3rd Cabinet of North Korea,Q106041138,5th Administrative Council
+,Q106013933,3rd Cabinet of North Korea,,,,,,,,,,,,,Q105987276,2nd Cabinet of North Korea,Q106013864,4th Cabinet of North Korea
+,Q106041138,5th Administrative Council,,,,,,,,,,,,,Q106013864,4th Cabinet of North Korea,Q106041145,6th Administrative Council
+,Q106041145,6th Administrative Council,,,,,,,,,,,,,Q106041138,5th Administrative Council,,
+,Q106041148,10th Cabinet of North Korea,1998-09-05,11,,,2003-09-03,11,,,,,,,,,Q106041154,11th Cabinet of North Korea
+,Q106041154,11th Cabinet of North Korea,2003-09-03,11,,,2009-04-09,11,,,,,,,Q106041148,10th Cabinet of North Korea,Q106076268,12th Cabinet of North Korea
+,Q106076268,12th Cabinet of North Korea,2009-04-09,11,,,2014-04-09,11,,,,,,,Q106041154,11th Cabinet of North Korea,Q106076267,13th Cabinet of North Korea
+,Q106076267,13th Cabinet of North Korea,2014-04-09,11,,,2019-04-11,11,,,,,,,Q106076268,12th Cabinet of North Korea,Q106076357,14th Cabinet of North Korea
+,Q106076357,14th Cabinet of North Korea,2019-04-11,11,,,,,,,,,,,Q106076267,13th Cabinet of North Korea,,
