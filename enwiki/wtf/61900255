@@ -1,0 +1,299 @@
+{
+  "title": "Pak Thae-song",
+  "pageID": 61900255,
+  "categories": [
+    "Living people",
+    "1955 births",
+    "Place of birth missing (living people)",
+    "Members of the Supreme People's Assembly",
+    "Members of the 8th Politburo of the Workers' Party of Korea",
+    "Members of the 8th Central Committee of the Workers' Party of Korea",
+    "Vice Chairmen of the Workers' Party of Korea and its predecessors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pak Thae-song (, born 14 September 1955 ) is a North Korean politician.",
+              "links": [
+                {
+                  "text": "North Korean",
+                  "type": "internal",
+                  "page": "North Korea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pak Thae-song"
+                ]
+              }
+            },
+            {
+              "text": "He is the Chairman of the Supreme People's Assembly and a Vice Chairman of the Workers' Party of Korea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Supreme People's Assembly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vice Chairman of the Workers' Party of Korea"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "North Korean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Pak",
+            ""
+          ],
+          "lang": "Korean",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1955",
+          "month": "09",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "박",
+            "태",
+            "성"
+          ],
+          "template": "linktext"
+        },
+        {
+          "lang": "ko-Hant",
+          "list": [
+            "朴",
+            "泰",
+            "成"
+          ],
+          "template": "linktext"
+        },
+        {
+          "hangul": "박태성",
+          "context": "north",
+          "labels": "no",
+          "template": "korean"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "rr": {
+            "text": "Bak Taeseong"
+          },
+          "mr": {
+            "text": "Pak T'aesŏng"
+          },
+          "context": {
+            "text": "north"
+          }
+        },
+        {
+          "name": {
+            "text": "Pak Thae-song"
+          },
+          "image": {
+            "text": "Pak Thae-song.jpg"
+          },
+          "birth_date": {
+            "text": "September 14, 1955"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "birth_place": {
+            "text": "North Korea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Korea"
+              }
+            ]
+          },
+          "office": {
+            "text": "Chairman of the Supreme People's Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Supreme People's Assembly"
+              }
+            ]
+          },
+          "leader": {
+            "text": "Kim Jong-un",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Jong-un"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Presidium Chairman"
+          },
+          "1namedata": {
+            "text": "Choe Ryong-hae",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Choe Ryong-hae"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 April 2019"
+          },
+          "predecessor": {
+            "text": "Choe Thae-bok",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Choe Thae-bok"
+              }
+            ]
+          },
+          "office1": {
+            "text": "WPK Provincial Party Committee Secretary of South Pyongan Province",
+            "links": [
+              {
+                "type": "internal",
+                "page": "South Pyongan Province"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor1": {
+            "text": "Hong In-bom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hong In-bom"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Kim Tu-il",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Tu-il"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Korean",
+            "links": [
+              {
+                "text": "Korean",
+                "type": "internal",
+                "page": "Koreans"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "North Korean",
+            "links": [
+              {
+                "text": "North Korean",
+                "type": "internal",
+                "page": "Citizenship in North Korea"
+              }
+            ]
+          },
+          "party": {
+            "text": "Workers' Party of Korea"
+          }
+        }
+      ],
+      "references": [
+        {
+          "script-title": "ko:박태성(남성)",
+          "work": "nkinfo.unikorea.go.kr",
+          "access-date": "6 March 2021",
+          "url": "https://nkinfo.unikorea.go.kr/nkp/theme/viewPeople.do?nkpmno=9738",
+          "language": "ko",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nkleadershipwatch.org/leadership-biographies/pak-thae-song/",
+          "title": "Pak Thae Song",
+          "website": "North Korea Leadership Watch",
+          "date": "February 28, 2018",
+          "access-date": "2019-09-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "In full: promotions and demotions at North Korea’s 14th SPA",
+          "publisher": "Korea Risk Group",
+          "work": "NK PRO",
+          "date": "12 April 2019",
+          "access-date": "17 April 2019",
+          "url": "https://www.nknews.org/pro/in-full-promotions-and-demotions-at-north-koreas-14th-spa/",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Choe Thae-bok",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of the Supreme People's Assembly",
+          "years": "April 2019 - present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "supreme people's assembly"
+        },
+        {
+          "template": "northkorea-politician-stub"
+        }
+      ]
+    }
+  ]
+}
