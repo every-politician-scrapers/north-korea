@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Minister of Foreign Affairs\n(North American portfolio)"
+    },
+    "P580": "2018-02",
+    "P1365": {
+      "links": [
+        "Han Song-ryol"
+      ],
+      "stated_as": "Han Song-ryol"
+    },
+    "P582": "2019-04"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "First Vice Minister of Foreign Affairs"
+    },
+    "P580": "2019-04",
+    "P1365": {
+      "links": [
+        "Kim Kye-gwan"
+      ],
+      "stated_as": "Kim Kye-gwan"
+    },
+    "P582": "2022-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (North Korea)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2022-06-11",
+    "P1365": {
+      "links": [
+        "Ri Son-gwon"
+      ],
+      "stated_as": "Ri Son-gwon"
+    }
+  }
+]

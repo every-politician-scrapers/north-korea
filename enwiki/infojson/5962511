@@ -1,0 +1,69 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Commander of the Armed Forces of North Korea"
+      ],
+      "stated_as": "Supreme Commander of the Armed Forces of North Korea"
+    },
+    "P580": "2011-12-30",
+    "P1365": {
+      "links": [
+        "Kim Jong-il"
+      ],
+      "stated_as": "Kim Jong-il"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "General Secretary of the Workers' Party of Korea"
+      ],
+      "stated_as": "General Secretary of the Workers' Party of Korea"
+    },
+    "P580": "2012-04-11",
+    "P1365": {
+      "links": [
+        "Kim Jong-il"
+      ],
+      "stated_as": "Kim Jong-il"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the State Affairs of North Korea"
+      ],
+      "stated_as": "First Chairman of the National Defense Commission"
+    },
+    "P580": "2012-04-13",
+    "P1365": {
+      "links": [
+        "Kim Jong-il"
+      ],
+      "stated_as": "Kim Jong-il (as Chairman)"
+    },
+    "P582": "2016-06-29",
+    "P1366": {
+      "links": [
+        "President of the State Affairs of North Korea"
+      ],
+      "stated_as": "Himself (as President of the State Affairs)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the State Affairs of North Korea"
+      ],
+      "stated_as": "President of the State Affairs of North Korea"
+    },
+    "P580": "2016-06-29",
+    "P1365": {
+      "links": [
+        "National Defense Commission"
+      ],
+      "stated_as": "Himself (as First Chairman of the National Defense Commission)"
+    }
+  }
+]

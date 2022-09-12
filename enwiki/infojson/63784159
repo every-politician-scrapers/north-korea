@@ -1,0 +1,44 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Construction and Building-Materials Industries"
+      ],
+      "stated_as": "Minister of Construction and Building-Materials Industries"
+    },
+    "P580": "2009-04-09",
+    "P1365": {
+      "links": [
+        "Jo Yun-hui"
+      ],
+      "stated_as": "Jo Yun-hui"
+    },
+    "P582": "2014-04-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Construction and Building-Materials Industries"
+      ],
+      "stated_as": "Minister of Construction and Building-Materials Industries"
+    },
+    "P580": "2014-04-09",
+    "P582": "2019-04-11",
+    "P1366": {
+      "links": [
+        "Pak Hun"
+      ],
+      "stated_as": "Pak Hun"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice Premier of North Korea"
+      ],
+      "stated_as": "Vice Premier of North Korea"
+    },
+    "P580": "2019-04-11",
+    "P582": "2021-01-18"
+  }
+]

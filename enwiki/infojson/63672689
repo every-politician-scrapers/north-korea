@@ -1,0 +1,44 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of External Economic Relations"
+      ],
+      "stated_as": "Minister of Foreign Trade"
+    },
+    "P580": "2009-04-09",
+    "P1365": {
+      "links": [
+        "Ri Kwang-gun"
+      ],
+      "stated_as": "Ri Kwang-gun"
+    },
+    "P582": "2014-04-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of External Economic Relations"
+      ],
+      "stated_as": "Minister of Foreign Trade"
+    },
+    "P580": "2014-04-09",
+    "P582": "2019-04-11",
+    "P1366": {
+      "links": [
+        "Kim Yong-jae"
+      ],
+      "stated_as": "Kim Yong-jae"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice Premier of North Korea"
+      ],
+      "stated_as": "Vice Premier of North Korea"
+    },
+    "P580": "2019-04-11",
+    "P582": "2021-01-18"
+  }
+]
