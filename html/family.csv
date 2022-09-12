@@ -1,0 +1,33 @@
+id,name,relationship,relative,relativename
+Q10665,Kim Jong-il,child,Q317824,Kim Jong-nam
+Q10665,Kim Jong-il,child,Q385795,Kim Jong-chul
+Q10665,Kim Jong-il,child,Q4330912,Kim Yo-jong
+Q10665,Kim Jong-il,child,Q56226,Kim Jong-un
+Q10665,Kim Jong-il,child,Q705218,Kim Sul-song
+Q10665,Kim Jong-il,child,Q77561335,Kim Chun-song
+Q10665,Kim Jong-il,father,Q41117,Kim Il-sung
+Q10665,Kim Jong-il,mother,Q463949,Kim Jong-suk
+Q10665,Kim Jong-il,partner,Q263732,Ko Yong-hui
+Q10665,Kim Jong-il,partner,Q487289,Song Hye-rim
+Q10665,Kim Jong-il,partner,Q705212,Kim Ok
+Q10665,Kim Jong-il,sibling,Q271067,Kim Kyong-hui
+Q10665,Kim Jong-il,sibling,Q710805,Kim Pyong-il
+Q10665,Kim Jong-il,sibling,Q840719,Kim Man-il
+Q10665,Kim Jong-il,spouse,Q263732,Ko Yong-hui
+Q10665,Kim Jong-il,spouse,Q487289,Song Hye-rim
+Q10665,Kim Jong-il,spouse,Q705212,Kim Ok
+Q10665,Kim Jong-il,spouse,Q714481,Kim Young-sook
+Q110456,Kim Yong-nam,father,Q53679453,Kim Thaek-se
+Q29841145,Kim Kwang-sop,child,Q76657833,Kim Jung-min
+Q29841145,Kim Kwang-sop,child,Q76658133,Kim Tong-min
+Q29841145,Kim Kwang-sop,spouse,Q76650924,Kim Kyong-chin
+Q56226,Kim Jong-un,child,Q14864448,Kim Ju-ae
+Q56226,Kim Jong-un,child,Q96276527,first born of  Kim Jong-un
+Q56226,Kim Jong-un,father,Q10665,Kim Jong-il
+Q56226,Kim Jong-un,mother,Q263732,Ko Yong-hui
+Q56226,Kim Jong-un,sibling,Q317824,Kim Jong-nam
+Q56226,Kim Jong-un,sibling,Q385795,Kim Jong-chul
+Q56226,Kim Jong-un,sibling,Q4330912,Kim Yo-jong
+Q56226,Kim Jong-un,sibling,Q705218,Kim Sul-song
+Q56226,Kim Jong-un,spouse,Q714658,Ri Sol-ju
+Q714509,Choe Ryong-hae,father,Q8287842,Choe Hyon
