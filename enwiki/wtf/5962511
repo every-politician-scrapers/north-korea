@@ -119,7 +119,7 @@
               ]
             },
             {
-              "text": "Kim holds the titles of General Secretary of the Workers' Party of Korea, Chairman of the Central Military Commission, and President of the State Affairs Commission.",
+              "text": "Kim holds the titles of General Secretary of the Workers' Party of Korea, Chairman of the Central Military Commission, and President of the State Affairs.",
               "links": [
                 {
                   "type": "internal",
@@ -131,8 +131,9 @@
                   "page": "Central Military Commission of the Workers' Party of Korea"
                 },
                 {
+                  "text": "President of the State Affairs",
                   "type": "internal",
-                  "page": "President of the State Affairs Commission"
+                  "page": "President of the State Affairs of North Korea"
                 }
               ]
             },
