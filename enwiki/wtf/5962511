@@ -42,7 +42,7 @@
         {
           "sentences": [
             {
-              "text": "Kim Jong-un (, ; born 8 January 1983) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.",
+              "text": "Kim Jong-un (, ; born 8 January 1982) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.",
               "links": [
                 {
                   "text": "North Korean",
@@ -383,7 +383,7 @@
           "template": "ubl"
         },
         {
-          "year": "1983",
+          "year": "1982",
           "month": "1",
           "day": "8",
           "df": "y",
@@ -691,7 +691,7 @@
             }
           },
           "birth_date": {
-            "text": "January 8, 1983"
+            "text": "January 8, 1982"
           },
           "birth_place": {
             "text": "Pyongyang, North Korea",
