@@ -1,10 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q56876342,Supreme Leader of North Korea,Q423,Q423,,,1940,,,,Supreme Leader (North Korean title)
-Q7240364,Premier of North Korea,Q423,Q423,,,1948-09-09,,,,Premier of North Korea
-Q24863173,Vice Premier of North Korea,Q423,,,,,,,,Vice Premier of North Korea
+Q96418064,Chairman of the Supreme People's Assembly,Q423,Q423,,,,,,,Chairman of the Supreme People's Assembly
+Q21328639,Member of the Supreme People's Assembly of North Korea,Q423,Q423,,,,,,,
 Q113947153,Minister of Atomic Energy Industry,,Q423,,,,,,,
 Q113947161,Minister of Construction and Building-Materials Industry,,Q423,,,,,,,
-Q113947301,Minister of State Construction Control,,Q423,,,,,,,
 Q113947195,Minister of Culture,,Q423,,,,,,,
 Q113947130,Minister of Finance (North Korea),,Q423,,,,,,,
 Q113470538,Minister of Foreign Affairs of the Democratic People's Republic of Korea,,Q423,,,,,,,
@@ -13,6 +11,21 @@ Q113947226,Minister of Forestry,,Q423,,,,,,,
 Q113947388,Minister of Justice of North Korea,,Q423,,,,,,,
 Q113947249,Minister of Labor,,Q423,,,,,,,
 Q113947277,Minister of Light Industry,,Q423,,,,,,,
-Q113947341,Minister of State Natural Resources Development,,Q423,,,,,,,
 Q113947125,Minister of Post and Telecommunications,,Q423,,,,,,,
 Q113947138,Minister of Public Health of North Korea,,Q423,,,,,,,
+Q113947301,Minister of State Construction Control,,Q423,,,,,,,
+Q113947341,Minister of State Natural Resources Development,,Q423,,,,,,,
+Q30623700,North Korean Ambassador to Germany,Q423,,,,,,,,List of ambassadors of North Korea to Germany
+Q107420194,North Korean Ambassador to Syria,Q423,,,,,,,,
+Q29025176,North Korean Ambassador to the United Kingdom,Q423,,,,,,,,Ambassador of North Korea to the United Kingdom
+Q7240364,Premier of North Korea,Q423,Q423,,,1948-09-09,,,,Premier of North Korea
+Q30944956,President of the Presidium of the Supreme People's Assembly,,Q423,,,,,,,Chairman of the Standing Committee of the Supreme People's Assembly
+Q98796817,Secretary General of the Presidium of the Supreme People's Assembly,,Q423,,,,,,,
+Q4330651,Supreme Commander of the Korean People's Army,,,,,,,,,Supreme Commander of the Armed Forces of North Korea
+Q56876342,Supreme Leader of North Korea,Q423,Q423,,,1940,,,,Supreme Leader (North Korean title)
+Q98796533,Vice Chairman of the Supreme People's Assembly,,Q423,,,,,,,
+Q24863173,Vice Premier of North Korea,Q423,,,,,,,,Vice Premier of North Korea
+Q98704299,Vice President of the Presidium of the Supreme People's Assembly,,Q423,,,,,,,
+Q30160586,ambassador of North Korea,Q423,,,Q30160595,,,,,
+Q106452621,ambassador of North Korea to Equatorial Guinea,Q423,,,,,,,,
+Q106300005,ambassador of North-Korea to Austria,Q423,,,,,,,,
