@@ -6297,12 +6297,6 @@
           "template": "refbegin"
         },
         {
-          "list": [
-            "10.31780/jpu.2019.9.1.109"
-          ],
-          "template": "doi"
-        },
-        {
           "template": "refend"
         }
       ],
@@ -6313,14 +6307,6 @@
             "formatting": {
               "italic": [
                 "Routledge Handbook of Contemporary North Korea"
-              ]
-            }
-          },
-          {
-            "text": "Kim, Ki-hun. \"Studies on the North Korean Monetary Economy in the Kim Jong-un Era.\" Journal of Peace and Unification 9.1 (2019): 109–148.",
-            "formatting": {
-              "italic": [
-                "Journal of Peace and Unification"
               ]
             }
           },
@@ -6357,13 +6343,37 @@
         ],
         [
           {
-            "text": "Kim, Ki-hun. \"Studies on the North Korean Monetary Economy in the Kim Jong-un Era.\" Journal of Peace and Unification 9.1 (2019): 109–148.",
+            "text": "Moreshead, Paul. \"Review of The Secret Rise and Rule of Kim Jong Un\" H-War, H-Net Reviews (December 2020). online",
+            "links": [
+              {
+                "text": "online",
+                "type": "external",
+                "site": "http://www.h-net.org/reviews/showrev.php?id=55870"
+              }
+            ],
             "formatting": {
               "italic": [
-                "Journal of Peace and Unification"
+                "H-War, H-Net Reviews"
               ]
             }
           },
+          {
+            "text": "Pardo, Ramon Pacheco. North Korea-US Relations: From Kim Jong Il to Kim Jong Un (2nd ed. Routledge, 2020). excerpt",
+            "links": [
+              {
+                "text": "excerpt",
+                "type": "external",
+                "site": "https://www.amazon.com/North-Korea-Relations-Routledge-Studies/dp/0367198142/"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "North Korea-US Relations: From Kim Jong Il to Kim Jong Un"
+              ]
+            }
+          }
+        ],
+        [
           {
             "text": "Moreshead, Paul. \"Review of The Secret Rise and Rule of Kim Jong Un\" H-War, H-Net Reviews (December 2020). online",
             "links": [
@@ -6474,6 +6484,19 @@
           "journal": "Journal of Contemporary East Asia Studies",
           "volume": "9",
           "pages": "18–28",
+          "template": "citation",
+          "type": "cite journal"
+        },
+        {
+          "last1": "Kim",
+          "first1": "Ki-hun",
+          "year": "2019",
+          "title": "Studies on the North Korean Monetary Economy in the Kim Jong-un Era",
+          "journal": "Journal of Peace and Unification",
+          "volume": "9",
+          "issue": "1",
+          "pages": "109–148",
+          "doi": "10.31780/jpu.2019.9.1.109",
           "template": "citation",
           "type": "cite journal"
         },
