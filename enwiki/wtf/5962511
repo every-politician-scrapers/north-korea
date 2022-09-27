@@ -443,6 +443,14 @@
         },
         {
           "list": [
+            "金",
+            "正",
+            "恩"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
             "Kim"
           ],
           "template": "korean name 2"
