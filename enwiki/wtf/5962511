@@ -2855,6 +2855,10 @@
           "title": "Socialist Constitution - Chairman of the State Affairs Commission - Article 102",
           "website": "Naenara",
           "publisher": "Government of the Democratic People's Republic of Korea",
+          "access-date": "6 January 2020",
+          "archive-date": "4 June 2020",
+          "archive-url": "https://web.archive.org/web/20200604090539/http://www.naenara.com.kp/en/politics/?rule+9",
+          "url-status": "dead",
           "template": "citation",
           "type": "web"
         }
@@ -6093,29 +6097,35 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Jubilee Medal \"75 Years of Victory in the Great Patriotic War 1941–1945\" (Russia, 2020) — awarded for his efforts at preserving the memory of Soviet soldiers who died during the Soviet–Japanese War (1945) and were buried in North Korea",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jubilee Medal \"75 Years of Victory in the Great Patriotic War 1941–1945\""
+                },
+                {
+                  "type": "internal",
+                  "page": "Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Soviet–Japanese War"
+                }
+              ]
+            }
+          ]
         }
       ],
-      "lists": [
-        [
-          {
-            "text": "[[File:Юбилейная_медаль_«75_лет_Победы_в_Великой_Отечественной_войне_1941—1945_гг.»_(лента).png|60px]] Jubilee Medal \"75 Years of Victory in the Great Patriotic War 1941–1945\" (Russia, 2020) — awarded for his efforts at preserving the memory of Soviet soldiers who died during the Soviet–Japanese War (1945) and were buried in North Korea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jubilee Medal \"75 Years of Victory in the Great Patriotic War 1941–1945\""
-              },
-              {
-                "type": "internal",
-                "page": "Russia"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet–Japanese War"
-              }
-            ]
-          }
-        ]
+      "images": [
+        {
+          "file": "File:Юбилейная_медаль_«75_лет_Победы_в_Великой_Отечественной_войне_1941—1945_гг.»_(лента).png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%AE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB75_%D0%BB%D0%B5%D1%82_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5_1941%E2%80%941945_%D0%B3%D0%B3.%C2%BB_(%D0%BB%D0%B5%D0%BD%D1%82%D0%B0).png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/%D0%AE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB75_%D0%BB%D0%B5%D1%82_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5_1941%E2%80%941945_%D0%B3%D0%B3.%C2%BB_(%D0%BB%D0%B5%D0%BD%D1%82%D0%B0).png",
+          "caption": "50px",
+          "links": []
+        }
       ],
       "references": [
         {
@@ -6505,6 +6515,7 @@
           "issue": "1",
           "pages": "109–148",
           "doi": "10.31780/jpu.2019.9.1.109",
+          "s2cid": "195487251",
           "template": "citation",
           "type": "cite journal"
         },
@@ -6527,6 +6538,10 @@
           "publisher": "Foreign Languages Publishing House",
           "location": "Pyongyang",
           "isbn": "978-9946-0-1430-2",
+          "access-date": "12 April 2017",
+          "archive-date": "12 April 2017",
+          "archive-url": "https://web.archive.org/web/20170412224635/http://www.naenara.com.kp/en/book/download.php?4+4061#.pdf",
+          "url-status": "dead",
           "template": "citation",
           "type": "cite book"
         },
@@ -6573,6 +6588,10 @@
           "publisher": "Foreign Languages Publishing House",
           "location": "Pyongyang",
           "isbn": "978-9946-0-1192-9",
+          "access-date": "14 October 2015",
+          "archive-date": "15 September 2015",
+          "archive-url": "https://web.archive.org/web/20150915074146/http://www.naenara.com.kp/en/book/download.php?4+4056#.pdf",
+          "url-status": "dead",
           "template": "citation",
           "type": "cite book"
         },
