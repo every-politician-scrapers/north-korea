@@ -1,4 +1,8 @@
 id,name,relationship,relative,relativename
+Q1062006,Kim Yong-ju,father,Q489279,Kim Hyŏng-jik
+Q1062006,Kim Yong-ju,mother,Q709975,Kang Pan-sŏk
+Q1062006,Kim Yong-ju,sibling,Q41117,Kim Il-sung
+Q1062006,Kim Yong-ju,sibling,Q4991767,Kim Chol-ju
 Q10665,Kim Jong-il,child,Q317824,Kim Jong-nam
 Q10665,Kim Jong-il,child,Q385795,Kim Jong-chul
 Q10665,Kim Jong-il,child,Q4330912,Kim Yo-jong
@@ -30,5 +34,6 @@ Q56226,Kim Jong-un,sibling,Q385795,Kim Jong-chul
 Q56226,Kim Jong-un,sibling,Q4330912,Kim Yo-jong
 Q56226,Kim Jong-un,sibling,Q705218,Kim Sul-song
 Q56226,Kim Jong-un,spouse,Q714658,Ri Sol-ju
+Q56818408,Kim Kyong-jun,father,Q47670274,Kim Si-hak
 Q714509,Choe Ryong-hae,father,Q8287842,Choe Hyon
 Q9353635,Thae Jong-su,relative,Q15941566,Jong Il-ryong
