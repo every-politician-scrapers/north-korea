@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+        "name": "North Korea",
+        "id": "Q423"
+    },
+    "cabinet": {
+      "id":     "Q106076357",
+      "start":  "2021-01-18",
+      "end":    "2022-05-31",
+      "parent": "Q1937145"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/14th_Cabinet_of_North_Korea"
+    },
+    "person_description": {
+        "en": "North Korean politician"
+    }
+}
