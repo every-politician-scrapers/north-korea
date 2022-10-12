@@ -1,0 +1,186 @@
+{
+  "title": "Jang Kyong-il",
+  "pageID": 69611709,
+  "categories": [
+    "1985 births",
+    "Living people",
+    "North Korean footballers",
+    "North Korea international footballers",
+    "Association football midfielders"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jang Kyong-il (born 27 December 1985) is a North Korean former footballer.",
+              "links": [
+                {
+                  "text": "footballer",
+                  "type": "internal",
+                  "page": "association football"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jang Kyong-il"
+                ]
+              }
+            },
+            {
+              "text": "He represented North Korea on at least one occasion in 2007."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "North Korean footballer",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Jang",
+            ""
+          ],
+          "lang": "Korean",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1985",
+          "month": "12",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "~"
+          ],
+          "template": "ko-hhrm"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jang Kyong-il"
+          },
+          "birth_date": {
+            "text": "December 27, 1985"
+          },
+          "position": {
+            "text": "Midfielder",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Midfielder"
+              }
+            ]
+          },
+          "nationalyears1": {
+            "text": "2007",
+            "number": 2007
+          },
+          "nationalteam1": {
+            "text": "North Korea",
+            "links": [
+              {
+                "text": "North Korea",
+                "type": "internal",
+                "page": "North Korea national football team"
+              }
+            ]
+          },
+          "nationalcaps1": {
+            "text": "1",
+            "number": 1
+          },
+          "nationalgoals1": {
+            "text": "0",
+            "number": 0
+          }
+        },
+        {
+          "context": {
+            "text": "north"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career statistics",
+      "depth": 0
+    },
+    {
+      "title": "International",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "National team": {
+              "text": "North Korea",
+              "links": [
+                {
+                  "text": "North Korea",
+                  "type": "internal",
+                  "page": "North Korea national football team"
+                }
+              ]
+            },
+            "Year": {
+              "text": "2007",
+              "number": 2007
+            },
+            "Apps": {
+              "text": "1",
+              "number": 1
+            },
+            "Goals": {
+              "text": "0",
+              "number": 0
+            }
+          },
+          {
+            "National team": {
+              "text": "Total"
+            },
+            "Year": {
+              "text": ""
+            },
+            "Apps": {
+              "text": "1",
+              "number": 1
+            },
+            "Goals": {
+              "text": "0",
+              "number": 0
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "northkorea-footy-bio-stub"
+        }
+      ]
+    }
+  ]
+}

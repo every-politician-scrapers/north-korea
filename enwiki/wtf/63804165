@@ -1,0 +1,229 @@
+{
+  "title": "Kang Chol-gu",
+  "pageID": 63804165,
+  "categories": [
+    "Government ministers of North Korea",
+    "Members of the Supreme People's Assembly",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Alternate members of the 8th Central Committee of the Workers' Party of Korea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kang Chol-gu is (강철구) a politician of the Democratic People's Republic of Korea (North Korea).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Korea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kang Chol-gu"
+                ]
+              }
+            },
+            {
+              "text": "He is also a candidate member of the Central Committee of the Workers' Party of Korea as well as Minister of Shipbuilding Industry in the Cabinet of North Korea.",
+              "links": [
+                {
+                  "text": "Central Committee",
+                  "type": "internal",
+                  "page": "Central Committee of the Workers' Party of Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Workers' Party of Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of North Korea"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Kang",
+            ""
+          ],
+          "lang": "Korean",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Shipbuilding",
+            "links": [
+              {
+                "text": "Minister of Shipbuilding",
+                "type": "internal",
+                "page": "Minister of Shipbuilding (North Korea)"
+              }
+            ]
+          },
+          "convocation": {
+            "text": "14th term",
+            "links": [
+              {
+                "text": "14th term",
+                "type": "internal",
+                "page": "14th Cabinet of North Korea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 April 2019"
+          },
+          "term_end": {
+            "text": "Incumbent"
+          },
+          "premier": {
+            "text": "Kim Tok-hun Kim Jae-ryong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Tok-hun"
+              },
+              {
+                "type": "internal",
+                "page": "Kim Jae-ryong"
+              }
+            ]
+          },
+          "president": {
+            "text": "Kim Jong-un",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Jong-un"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Post established"
+          },
+          "nationality": {
+            "text": "Korean",
+            "links": [
+              {
+                "text": "Korean",
+                "type": "internal",
+                "page": "Koreans"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "North Korean",
+            "links": [
+              {
+                "text": "North Korean",
+                "type": "internal",
+                "page": "Citizenship in North Korea"
+              }
+            ]
+          },
+          "party": {
+            "text": "Workers' Party of Korea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Workers' Party of Korea"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "In full: promotions and demotions at North Korea’s 14th SPA",
+          "publisher": "Korea Risk Group",
+          "work": "NK PRO",
+          "date": "12 April 2019",
+          "access-date": "17 April 2019",
+          "url": "https://www.nknews.org/pro/in-full-promotions-and-demotions-at-north-koreas-14th-spa/",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2019, he was appointed to head the Ministry of Shipping and Industry in the Cabinet of North Korea headed by Premier, Kim Jae-ryong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of North Korea"
+                },
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of North Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kim Jae-ryong"
+                }
+              ]
+            },
+            {
+              "text": "In April 2019, it was elected as a candidate for the Central Committee of the Workers 'Party of Korea at the 4th Plenum of the 7th Party of the Workers' Party."
+            },
+            {
+              "text": "In March 2019, he was elected to the 14th convocation of the Supreme People's Assembly representing district 521.",
+              "links": [
+                {
+                  "text": "14th convocation",
+                  "type": "internal",
+                  "page": "2019 North Korean parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme People's Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

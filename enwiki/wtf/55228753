@@ -1,0 +1,98 @@
+{
+  "title": "Yu Chol-u",
+  "pageID": 55228753,
+  "categories": [
+    "Space program of North Korea",
+    "Living people",
+    "1959 births",
+    "Place of birth missing (living people)",
+    "21st-century North Korean people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yu Chol-u (born 8 August 1959) is the current Director of the North Korean National Aerospace Development Administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Aerospace Development Administration"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yu Chol-u"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=4953",
+          "title": "Sanctions List Search - Yu",
+          "publisher": "US Treasury",
+          "access-date": "13 September 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of North Korea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of North Korea"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "north korean space program"
+        },
+        {
+          "template": "public sector space agencies"
+        },
+        {
+          "list": [
+            "Biography",
+            "Politics",
+            "North Korea"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "northkorea-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "title": "Ri Son-gwon",
+  "pageID": 62866630,
+  "categories": [
+    "Living people",
+    "Foreign ministers of North Korea",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Members of the 8th Central Committee of the Workers' Party of Korea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ri Son-gwon is a North Korean politician and diplomat who has served as chairman of the Committee for the Peaceful Reunification of the Fatherland.",
+              "links": [
+                {
+                  "text": "North Korean",
+                  "type": "internal",
+                  "page": "North Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Committee for the Peaceful Reunification of the Fatherland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ri Son-gwon"
+                ]
+              }
+            },
+            {
+              "text": "In January 2020, he was named in media reports as the successor for Foreign Minister Ri Yong-ho.",
+              "links": [
+                {
+                  "text": "Ri Yong-ho",
+                  "type": "internal",
+                  "page": "Ri Yong-ho (diplomat)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "North Korean military officer",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Ri",
+            ""
+          ],
+          "lang": "Korean",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "June 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Flag of the Korean People's Army (1992–1993).svg"
+          ],
+          "template": "flagicon image"
+        },
+        {
+          "list": [
+            "리",
+            "선",
+            "권"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "李",
+            "善",
+            "權"
+          ],
+          "template": "linktext"
+        },
+        {
+          "hangul": "리선권",
+          "context": "north",
+          "template": "korean"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "rr": {
+            "text": "Ri Seongwon"
+          },
+          "mr": {
+            "text": "Ri Sŏn'gwŏn"
+          },
+          "context": {
+            "text": "north"
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Senior Colonel",
+            "links": [
+              {
+                "text": "Senior Colonel",
+                "type": "internal",
+                "page": "Daechwa"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ri Son-gwon"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (North Korea)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 January 2020"
+          },
+          "term_end": {
+            "text": "11 June 2022"
+          },
+          "president": {
+            "text": "Kim Jong-un",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Jong-un"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Kim Tok-hun Kim Jae-ryong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Tok-hun"
+              },
+              {
+                "type": "internal",
+                "page": "Kim Jae-ryong"
+              }
+            ]
+          },
+          "convocation": {
+            "text": "14th term",
+            "links": [
+              {
+                "text": "14th term",
+                "type": "internal",
+                "page": "14th Cabinet of North Korea"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ri Yong-ho",
+            "links": [
+              {
+                "text": "Ri Yong-ho",
+                "type": "internal",
+                "page": "Ri Yong-ho (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Choe Son-hui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Choe Son-hui"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇰🇵 North Korea",
+            "links": [
+              {
+                "text": "North Korea",
+                "type": "internal",
+                "page": "north korea"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Senior Colonel"
+          },
+          "branch": {
+            "text": "Korean People's Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Korean People's Army"
+              }
+            ]
+          },
+          "image": {
+            "text": "Ri Son-gwon.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "script-title": "ko:리선권(남성)",
+          "work": "nkinfo.unikorea.go.kr",
+          "date": "n.d.",
+          "access-date": "11 February 2020",
+          "url": "https://nkinfo.unikorea.go.kr/nkp/theme/viewPeople.do?nkpmno=23343",
+          "language": "ko",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "North Korea picks army man who led Korean talks as top envoy",
+          "agency": "Bloomberg",
+          "work": "The Straits Times",
+          "date": "19 January 2020",
+          "access-date": "19 January 2020",
+          "url": "https://www.straitstimes.com/asia/east-asia/north-korea-picks-army-man-who-led-korean-talks-as-top-envoy",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ft.com/content/923094de-3a8a-11ea-a01a-bae547046735",
+          "title": "Kim Jong Un sacks foreign minister, says report",
+          "website": "Financial Times",
+          "access-date": "2020-01-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.japantimes.co.jp/news/2020/01/19/asia-pacific/politics-diplomacy-asia-pacific/north-korea-top-diplomat-reshuffle-us-nuclear-talks/",
+          "title": "North Korea ditches top diplomat in reshuffle that could impact nuclear talks",
+          "last": "Johnson",
+          "first": "Jesse",
+          "date": "2020-01-19",
+          "work": "The Japan Times Online",
+          "access-date": "2020-01-19",
+          "language": "en-US",
+          "issn": "0447-5763",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ri led a North Korean delegation for the first high-level inter-Korean talks in more than two years in January 2018."
+            },
+            {
+              "text": "He was once known the right-hand man of Kim Yong-chol, and appeared at a second round of inter-Korean working-level military talks in October 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kim Yong-chol"
+                }
+              ]
+            },
+            {
+              "text": "He also served as a Senior Colonel within the Korean People's Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Korean People's Army"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Ri Yong Ho replaced as North Korean foreign minister, sources say",
+          "last": "O'Carroll",
+          "first": "Chad",
+          "work": "NK News",
+          "date": "18 January 2020",
+          "access-date": "19 January 2020",
+          "url": "https://www.nknews.org/2020/01/ri-yong-ho-replaced-as-north-korean-foreign-minister-sources-say/",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Ri Yong-ho",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Foreign Affairs",
+          "years": "2020–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Choe Son-hui",
+          "template": "s-aft"
+        },
+        {
+          "template": "nkfms"
+        },
+        {
+          "template": "northkorea-politician-stub"
+        }
+      ]
+    }
+  ]
+}
