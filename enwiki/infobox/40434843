@@ -1,0 +1,39 @@
+{
+  "embed": "yes",
+  "office1": "Minister of Social Security",
+  "term_start1": "2019",
+  "term_end1": "2021",
+  "successor1": "Jang Jong-nam",
+  "office2": "Chief of the General Staff",
+  "term_start2": "August 2013",
+  "term_end2": "January 2016",
+  "2blankname2": "Supreme Commander",
+  "2namedata2": "Kim Jong-il\n\nKim Jong-un",
+  "term_start3": "September 29, 2021",
+  "2blankname3": "Supreme Commander",
+  "2namedata3": "Kim Jong-un",
+  "office3": "Minister of National Defense"
+}
+{
+  "child": "yes",
+  "hangul": "리영길",
+  "rr": "I Yeonggil",
+  "mr": "Ri Yŏnggil",
+  "hanja": "李永吉",
+  "context": "north"
+}
+{
+  "embed": "yes",
+  "allegiance": "Korean People's Army",
+  "branch": "Korean People's Army Ground Force",
+  "rank": "Ch'asu (Vice Marshal)",
+  "serviceyears": "1970s–present",
+  "commands": "3rd Army Corps 2002 to 2007\n\n5th Army Corps 2007 to 2012"
+}
+{
+  "honorific_prefix": "Vice Marshal",
+  "name": "Ri Yong-gil",
+  "native_name": "리영길",
+  "birth_date": "1952 (age 70)",
+  "birth_place": "North Korea"
+}
