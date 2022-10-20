@@ -4010,23 +4010,7 @@
         {
           "sentences": [
             {
-              "text": "In September 2022, Russia bought rockets from North Korea (Kim Jong-Un) to assist with the 2022 Russian invasion of Ukraine.",
-              "links": [
-                {
-                  "text": "2022 Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
-            },
-            {
-              "text": "There are also suspicions that Russia and China have not fully enforced UN sanctions against North Korea."
-            },
-            {
-              "text": "This further complicates Washington's ambitions to deprive and disarm North Korea of its nuclear weapons."
-            },
-            {
-              "text": "Kim officially declared North Korea a nuclear weapons state during a speech on 9 September, the country's foundation day.",
+              "text": "Kim officially declared North Korea a nuclear weapons state during a speech on 9 September 2022, the country's foundation day.",
               "links": [
                 {
                   "text": "nuclear weapons state",
@@ -4129,15 +4113,6 @@
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20170415112133/https://www.armscontrol.org/factsheets/UN-Security-Council-Resolutions-on-North-Korea",
           "archive-date": "15 April 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ukraine war: Russia buying rockets and artillery shells from North Korea, US intelligence says",
-          "url": "https://news.sky.com/story/ukraine-war-russia-buying-rockets-and-artillery-shells-from-north-korea-us-intelligence-says-12691038",
-          "access-date": "2022-09-08",
-          "website": "Sky News",
-          "language": "en",
           "template": "citation",
           "type": "web"
         },
@@ -4914,7 +4889,7 @@
               ]
             },
             {
-              "text": "Kim spoke further at a subsequent meeting with the WPK, stating that the virus had brought “great turmoil” to his country, and urged the party and people to remain unified and organized in their efforts to combat the virus."
+              "text": "Kim spoke further at a subsequent WPK meeting, stating that the virus had brought “great turmoil” to his country, and urged the party and people to remain unified and organized in their efforts to combat the virus."
             },
             {
               "text": "Kim went on to blame the crisis on incompetence and irresponsibility on the part of the party organizations, and also cast blame on “negligence including drug overdose due to lack of knowledge of treatment methods” as the reason for most of the deaths since the outbreak."
@@ -5706,11 +5681,7 @@
           "sentences": [
             {
               "text": "In April 2020, Kim was not seen in public for 20 days, leading to rumours that he was critically ill or dead."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In June 2021, following a one-month-long absence from the public eye, outside observers noted that Kim had lost considerable amount of weight."
             },

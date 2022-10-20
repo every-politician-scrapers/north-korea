@@ -43,6 +43,10 @@
       ],
       "templates": [
         {
+          "description": "North Korean politician",
+          "template": "short description"
+        },
+        {
           "date": "September 2022",
           "template": "refimprove"
         },
