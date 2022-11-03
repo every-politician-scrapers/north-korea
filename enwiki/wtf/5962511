@@ -3286,7 +3286,14 @@
               "text": "There has been a construction boom in Pyongyang, bringing colour and creative architectural styles to the city."
             },
             {
-              "text": "While in the past there was a concentration on building monuments, Kim Jong-un's government has constructed amusement parks, aquatic parks, skating rinks, a dolphinarium and a ski resort."
+              "text": "While in the past there was a concentration on building monuments, Kim Jong-un's government has constructed amusement parks, aquatic parks, skating rinks, a dolphinarium and a ski resort.",
+              "links": [
+                {
+                  "text": "dolphinarium",
+                  "type": "internal",
+                  "page": "dolphinarium"
+                }
+              ]
             },
             {
               "text": "Kim has been actively promoting a consumer culture, including entertainment and cosmetics."
