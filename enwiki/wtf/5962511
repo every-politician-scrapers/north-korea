@@ -780,6 +780,16 @@
       ],
       "references": [
         {
+          "script-title": "ko:김정은(남성)",
+          "url": "https://nkinfo.unikorea.go.kr/nkp/theme/viewPeople.do?nkpmno=22195",
+          "script-work": "ko:북한정보포털",
+          "language": "ko",
+          "publisher": "Ministry of Unification",
+          "access-date": "2022-11-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Collins English Dictionary: Complete and Unabridged",
           "edition": "12th",
           "year": "2014",
@@ -1199,7 +1209,7 @@
         },
         {
           "date": "15 April 2008",
-          "title": "김일성, 쿠바의 '혁명영웅' 체게바라를 만난 날",
+          "script-title": "ko:김일성, 쿠바의 '혁명영웅' 체게바라를 만난 날",
           "url": "http://www.dailynk.com/korean/read.php?cataId=nk00500&num=55181",
           "url-status": "dead",
           "archive-url": "https://web.archive.org/web/20110429064851/http://www.dailynk.com/korean/read.php?cataId=nk00500&num=55181",
@@ -1249,10 +1259,22 @@
           "type": "news"
         },
         {
+          "author1": "Titus Plattner",
+          "author2": "Daniel Glaus",
+          "author3": "Julian Schmidli",
+          "url": "http://www.sonntagszeitung.ch/fokus/artikel-detailseite/?newsid=212533",
+          "title": "Der Diktator aus Liebefeld",
+          "work": "SonntagsZeitung",
+          "date": "1 April 2012",
+          "page": "17",
+          "language": "de",
+          "access-date": "2 April 2012",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120403154111/http://www.sonntagszeitung.ch/fokus/artikel-detailseite/?newsid=212533",
+          "archive-date": "3 April 2012",
+          "quote": "Der Schüler Un Pak ist identisch mit Kim Jong-un.",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "last1": "Freeman",
@@ -2678,10 +2700,10 @@
         {
           "last": "권영전",
           "date": "2021-06-01",
-          "title": "[표] 북한 노동당 규약 주요 개정 내용",
+          "script-title": "ko:[표] 북한 노동당 규약 주요 개정 내용",
           "url": "https://www.yna.co.kr/view/AKR20210601170100504",
           "access-date": "2022-08-19",
-          "website": "연합뉴스",
+          "script-website": "ko:연합뉴스",
           "language": "ko",
           "template": "citation",
           "type": "web"
