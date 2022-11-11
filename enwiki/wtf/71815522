@@ -2,6 +2,8 @@
   "title": "Ri Thae-sop",
   "pageID": 71815522,
   "categories": [
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
     "Members of the Supreme People's Assembly",
     "Workers' Party of Korea politicians",
     "Members of the 8th Central Committee of the Workers' Party of Korea",
@@ -15,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Ri Thae-sop (리태섭/李太夑 ) is a North Korean politician and general.",
+              "text": "Ri Thae-sop (리태섭) is a North Korean politician and general.",
               "links": [
                 {
                   "text": "North Korean",
@@ -25,8 +27,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Ri Thae-sop (리태섭/李太夑",
-                  ")"
+                  "Ri Thae-sop"
                 ]
               }
             },
@@ -83,6 +84,18 @@
         }
       ],
       "templates": [
+        {
+          "date": "November 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "Ri",
+            ""
+          ],
+          "lang": "Korean",
+          "template": "family name hatnote"
+        },
         {
           "list": [
             "North Korea"
@@ -181,14 +194,31 @@
               }
             ]
           }
+        },
+        {
+          "hangul": {
+            "text": "리태섭"
+          },
+          "hanja": {
+            "text": "李太夑"
+          },
+          "rr": {
+            "text": "Ri Taeseop"
+          },
+          "mr": {
+            "text": "Ri T'aesŏp"
+          },
+          "context": {
+            "text": "north"
+          }
         }
       ],
       "references": [
         {
-          "title": "리태섭(李太燮)LEE Thae Seop",
+          "script-title": "ko:리태섭(李太燮)LEE Thae Seop",
           "url": "https://www.yna.co.kr/nk/person/body?scope=title&query=%EB%A6%AC%ED%83%9C%EC%84%AD&cid=CNK20060721658100370",
-          "access-date": "2022-10-10",
-          "website": "연합뉴스",
+          "access-date": "October 10, 2022",
+          "script-website": "ko:연합뉴스",
           "language": "ko",
           "template": "citation",
           "type": "web"
@@ -202,7 +232,7 @@
         {
           "sentences": [
             {
-              "text": "Birthplace and date of birth unknown."
+              "text": "Ri's birthplace and date of birth are unknown."
             },
             {
               "text": "In April 2004, he was promoted to Major General of the Korean People's Army, and in September 2010, he was elected as a candidate member of the Central Committee of the Workers' Party of Korea at the 3rd party conference.",
