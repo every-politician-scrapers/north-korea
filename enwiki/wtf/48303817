@@ -108,7 +108,7 @@
         {
           "sentences": [
             {
-              "text": "On 13 August, 2020, in the wake of COVID-19 spillover in North Korea and floods hitting the southern part of the country, he was appointed premier of the cabinet by Kim Jong-un, and elevated to the top-level Politburo Presidium.",
+              "text": "On 13 August 2020, in the wake of COVID-19 spillover in North Korea and floods hitting the southern part of the country, he was appointed premier of the cabinet by Kim Jong-un, and elevated to the top-level Politburo Presidium.",
               "links": [
                 {
                   "text": "COVID-19 spillover in North Korea",
@@ -129,6 +129,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "November 2022",
+          "template": "use dmy dates"
+        },
         {
           "description": "North Korean politician",
           "template": "short description"
@@ -357,14 +361,18 @@
           "type": "web"
         },
         {
-          "date": "2022-08-01",
+          "date": "1 August 2022",
           "title": "North Korea's premier now ranks as top official. Is he Kim Jong Un's successor?",
           "url": "https://www.nknews.org/pro/north-koreas-premier-now-ranks-as-top-official-is-he-kim-jong-uns-successor/",
-          "access-date": "2022-08-27",
+          "access-date": "27 August 2022",
           "website": "NK PRO",
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "November 2022",
+          "template": "citation needed"
         }
       ]
     },
