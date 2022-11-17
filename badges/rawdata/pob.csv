@@ -1,0 +1,106 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q105159427,Ri Song-hak,,,,,,false,,,,
+Q105705367,Ri Kuk-chol,,,,,,false,,,,
+Q105706437,Jon Hyon-chol,,,,,,false,,,,
+Q105864285,Choe Kang Il,,,,,,false,,,,
+Q1062006,Kim Yong-ju,NormalRank,Q1142667,Mangyŏngdae,true,false,true,false,false,false,true
+Q10855116,Kang Nung-su,NormalRank,Q18808,Pyongyang,true,true,false,,,,
+Q10855805,Kim Rak-hui,NormalRank,Q716127,Kaechon,true,true,true,false,false,false,true
+Q110456,Kim Yong-nam,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
+Q11261360,O Su-yong,NormalRank,Q18808,Pyongyang,true,true,true,false,false,true,true
+Q114088685,Ri Chang-dae,,,,,,false,,,,
+Q114593868,Chae Song-hak,,,,,,false,,,,
+Q114593869,Choe Kyong-chol,,,,,,false,,,,
+Q114593870,Im Kyong-jae,,,,,,false,,,,
+Q114593871,Jang Chun-song,,,,,,false,,,,
+Q114593873,Jon Hak-chol,,,,,,false,,,,
+Q114593874,Ju Chol-gyu,,,,,,false,,,,
+Q114593876,Kim Chung-song,,,,,,false,,,,
+Q114593877,Kim Song-ryong,,,,,,false,,,,
+Q114593878,Kim Sung-jin,,,,,,false,,,,
+Q114593879,Kim Yu-il,,,,,,false,,,,
+Q114593880,Ko Jong-bom,,,,,,false,,,,
+Q114593881,Ma Jong-son,,,,,,false,,,,
+Q114593883,Pak Hyok-chol,,,,,,false,,,,
+Q114593884,Ri Chol-san,,,,,,false,,,,
+Q114593885,Ri Hyok-gwon,,,,,,false,,,,
+Q114593886,So Jong-jin,,,,,,false,,,,
+Q114593887,Sung Jong-gyu,,,,,,false,,,,
+Q114593888,Yun Jong-ho,,,,,,false,,,,
+Q114594317,Kwak Jong Jun,,,,,,false,,,,
+Q114594333,Ri Tu Il,,,,,,false,,,,
+Q114594345,Pak Hyong Ryol,,,,,,false,,,,
+Q114594370,Jin Kum Song,,,,,,false,,,,
+Q114595445,Jon Sung Guk,,,,,,false,,,,
+Q114595747,Kim Sung Chan,,,,,,false,,,,
+Q114595858,Kim Jong Nam,,,,,,false,,,,
+Q11732843,Jon Ha-chol,,,,,,false,,,,
+Q12593548,Tong Jong-ho,NormalRank,Q109386,Nampho,true,true,true,false,false,true,true
+Q12594370,Ri Mu-yong,NormalRank,Q109386,Nampho,true,true,false,,,,
+Q12594419,Ri Yong-gil,NormalRank,Q423,North Korea,true,false,true,false,false,false,true
+Q12594422,Ri Yong-ho,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
+Q12594451,Ri Thae-sop,,,,,,false,,,,
+Q12597103,Pak Jong-gun,NormalRank,Q109361,North Hamgyong Province,true,true,true,false,true,false,false
+Q12616929,Jo Yong-chol,,,,,,false,,,,
+Q16169323,Mun Ung-jo,,,,,,false,,,,
+Q16177115,Kim Yong-jin,,,,,,false,,,,
+Q16179930,Kim Chung-gol,,,,,,false,,,,
+Q16181667,Ri Ryong-nam,NormalRank,Q18808,Pyongyang,true,true,false,,,,
+Q16904817,Kang Jong-gwan,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
+Q16905280,Pak Jong-chon,NormalRank,Q18808,Pyongyang,true,true,true,false,false,true,true
+Q16905281,Pak Thae-song,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
+Q16905320,Ri Chol-man,,,,,,false,,,,
+Q16907639,Kim Sung-du,NormalRank,Q109368,South Hamgyong Province,true,true,true,true,false,false,false
+Q1866337,Kim Yong-dae,NormalRank,Q109368,South Hamgyong Province,true,true,true,false,false,true,true
+Q21651765,Jang Kyong-il,,,,,,false,,,,
+Q2194140,Han Kwang-bok,,,,,,false,,,,
+Q25035961,Kim Tok-hun,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
+Q29841145,Kim Kwang-sop,,,,,,false,,,,
+Q30436217,Choe Son-hui,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
+Q310875,Kim Yong-il,NormalRank,Q423,North Korea,true,false,true,false,false,false,true
+Q310889,Choe Yong-rim,NormalRank,Q10921798,Kankyō-hoku Prefecture,true,false,true,false,false,false,true
+Q31180000,Im Chol-ung,,,,,,false,,,,
+Q3183240,Jon Sung-hun,NormalRank,Q626052,South Hwanghae Province,true,true,true,false,false,true,true
+Q335164,Hong Song-nam,NormalRank,Q213169,Chongju,true,true,true,false,false,true,true
+Q3434055,Ro Tu-chol,NormalRank,Q109356,Hamhung,true,true,true,false,false,true,true
+Q39670004,Yu Chol-u,,,,,,false,,,,
+Q447898,Kwak Pom-gi,,,,,,false,,,,
+Q483800,Ri Yong-ho,NormalRank,Q487587,Tongchon County,true,true,true,false,false,false,true
+Q494061,Paek Nam-sun,NormalRank,Q196062,Kilju County,true,true,true,false,false,true,true
+Q494061,Paek Nam-sun,NormalRank,Q109361,North Hamgyong Province,true,true,true,false,false,false,true
+Q494800,Pak Pong-ju,NormalRank,Q109361,North Hamgyong Province,true,true,true,false,false,false,true
+Q55708195,Ri Son-gwon,,,,,,false,,,,
+Q55734042,Jong Kyong-thaek,NormalRank,Q272406,Chagang Province,true,true,true,false,false,true,true
+Q56818408,Kim Kyong-jun,,,,,,false,,,,
+Q56818426,Kim Kum-chol,,,,,,false,,,,
+Q56818689,Kim Jae-ryong,NormalRank,Q272406,Chagang Province,true,true,true,false,false,true,true
+Q56819749,Ri Chung-gil,,,,,,false,,,,
+Q56820402,Pak Su-il,,,,,,false,,,,
+Q56820559,Pak Hun,,,,,,false,,,,
+Q56825043,Jon Kwang-ho,,,,,,false,,,,
+Q57063516,Ko Kil-son,,,,,,false,,,,
+Q57064523,Kim Il-guk,,,,,,false,,,,
+Q57064533,Kim Jae-song,,,,,,false,,,,
+Q57069172,Song Chun-sop,,,,,,false,,,,
+Q57071116,Wang Chang-uk,,,,,,false,,,,
+Q57075870,Han Ryong-guk,,,,,,false,,,,
+Q63773435,Kang Chol-gu,,,,,,false,,,,
+Q63774198,Kim Chol-su,,,,,,false,,,,
+Q63775001,Ri Kang-son,,,,,,false,,,,
+Q63775066,Ri Chol-jin,,,,,,false,,,,
+Q63776707,Yang Sung-ho,,,,,,false,,,,
+Q63776950,Jang Ki-ho,,,,,,false,,,,
+Q63777382,Jo Sok-ho,,,,,,false,,,,
+Q63777865,Choe Kang,,,,,,false,,,,
+Q705608,Kang Sok-ju,NormalRank,Q715926,Pyongwon County,true,true,false,,,,
+Q710692,Choe Thae-bok,NormalRank,Q109386,Nampho,true,true,true,false,false,false,true
+Q714509,Choe Ryong-hae,NormalRank,Q704821,Sinchon County,true,true,true,false,false,false,true
+Q9310191,Ri Su-yong,NormalRank,Q109368,South Hamgyong Province,true,true,false,,,,
+Q9310192,Ri Thae-nam,NormalRank,Q705815,Yomju County,true,true,true,false,false,false,true
+Q9353635,Thae Jong-su,NormalRank,Q109361,North Hamgyong Province,true,true,true,false,false,false,true
+Q97162070,Rim Kwang-il,,,,,,false,,,,
+Q97165506,Pak Yong-il,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
+Q10665,Kim Jong-il,PreferredRank,Q501499,Vyatskoye,true,true,true,false,true,false,false
+Q10665,Kim Jong-il,NormalRank,Q196934,Ussuriysk,true,true,true,false,false,false,false
+Q56226,Kim Jong-un,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
+Q58214,Pak Ui-chun,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
