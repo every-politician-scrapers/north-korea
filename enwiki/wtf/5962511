@@ -5992,10 +5992,15 @@
           "type": "web"
         },
         {
+          "url": "https://www.washingtonpost.com/world/2022/11/19/north-korea-daughter-kim-jong-un/",
+          "title": "Kim Jong Un’s daughter seen for first time — at a missile launch site",
+          "work": "The Washington Post",
+          "first": "Victoria",
+          "last": "Bisset",
+          "date": "19 November 2022",
+          "accessdate": "21 November 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.thetimes.co.uk/article/sister-helps-kim-strut-his-stuff-as-key-missile-test-looms-jjf8gdvzk",
