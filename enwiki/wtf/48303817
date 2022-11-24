@@ -206,15 +206,16 @@
             ]
           },
           "office1": {
-            "text": "Head of the Cadre Affairs Department of the Workers' Party of Korea",
+            "text": "Vice President of the State Affairs Commission",
             "links": [
               {
+                "text": "State Affairs Commission",
                 "type": "internal",
-                "page": "Workers' Party of Korea"
+                "page": "State Affairs Commission of North Korea"
               }
             ]
           },
-          "leader1": {
+          "president1": {
             "text": "Kim Jong-un",
             "links": [
               {
@@ -224,12 +225,33 @@
             ]
           },
           "term_start1": {
+            "text": "29 September 2019"
+          },
+          "office2": {
+            "text": "Head of the Cadre Affairs Department of the Workers' Party of Korea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Workers' Party of Korea"
+              }
+            ]
+          },
+          "leader2": {
+            "text": "Kim Jong-un",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Jong-un"
+              }
+            ]
+          },
+          "term_start2": {
             "text": "31 December 2019"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "13 August 2020"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Kim Phyong-hae",
             "links": [
               {
@@ -238,7 +260,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Vice Premier of North Korea",
             "links": [
               {
@@ -247,7 +269,7 @@
               }
             ]
           },
-          "premier2": {
+          "premier3": {
             "text": "Kim Jae-ryong",
             "links": [
               {
@@ -256,7 +278,7 @@
               }
             ]
           },
-          "president2": {
+          "president3": {
             "text": "Choe Ryong-hae",
             "links": [
               {
@@ -265,13 +287,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "11 April 2019"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "13 August 2020"
           },
-          "premier3": {
+          "premier4": {
             "text": "Pak Pong-ju",
             "links": [
               {
@@ -280,7 +302,7 @@
               }
             ]
           },
-          "president3": {
+          "president4": {
             "text": "Kim Yong-nam",
             "links": [
               {
@@ -289,10 +311,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "30 April 2014"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "11 April 2019"
           },
           "birth_date": {
