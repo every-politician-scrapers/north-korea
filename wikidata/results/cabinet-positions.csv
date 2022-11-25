@@ -1,54 +1,54 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114595966,Chairperson of the Capital Construction Commission,Q109535313,Capital Construction Commission,Q423,,,
-Q114595975,Chairperson of the Committee for the Peaceful Reunification of the Fatherland,Q6743389,Committee for the Peaceful Reunification of the Fatherland,Q423,,,
-Q114595955,Chairperson of the National Censorship Committee,Q16182185,National Censorship Committee,Q423,,,
-Q114595971,Chairperson of the National Quality Management Commission,Q109535309,National Quality Management Commission,Q423,,,
-Q114593584,Chairperson of the State Planning Commission of North Korea,Q24863725,State Planning Commission of North Korea,Q423,,,
-Q114595950,Chairperson of the State Price Commission,Q109534476,State Price Commission,Q423,,,
-Q114593575,Chairperson of the State Science and Technology Commission,Q24863695,State Science and Technology Commission,Q423,,,
-Q114593604,Director of the Central Bureau of Statistics of North Korea,Q28942281,Central Bureau of Statistics of North Korea,Q423,,,
-Q114595990,Director of the National Aerospace Development Administration,Q17124852,National Aerospace Development Administration,Q423,,,
-Q114593691,Minister of Agriculture,,,Q423,Q423,,
-Q113947153,Minister of Atomic Energy Industry,Q105271600,Ministry of Atomic Energy Industry,,Q423,,
-Q114593315,Minister of Chemical Industry of North Korea,Q24864198,Ministry of Chemical Industry of North Korea,,Q423,,
-Q114593358,Minister of Commerce,Q16182211,Ministry of Commerce,,Q423,,
-Q113947161,Minister of Construction and Building-Materials Industry,Q24863823,Ministry of Construction and Building-Materials Industry,,Q423,,
-Q114593693,Minister of Consumer Goods Industry,,,Q423,Q423,,
-Q114593431,Minister of Crude Oil of North Korea,Q25842485,Ministry of Crude Oil of North Korea,,Q423,,
-Q113947195,Minister of Culture,Q24863611,Ministry of Culture,,Q423,,
-Q113947130,Minister of Finance (North Korea),Q16182222,Ministry of Finance (North Korea),Q423,Q423,,
-Q114593389,Minister of Fisheries of North Korea,Q24863720,Ministry of Fisheries of North Korea,,Q423,,
-Q114593694,Minister of Food Procurement and Administration,,,Q423,Q423,,
-Q113470538,Minister of Foreign Affairs of the Democratic People's Republic of Korea,Q15507076,Ministry of Foreign Affairs of the Democratic People's Republic of Korea,,Q423,,
-Q113947137,Minister of Foreign Trade of North Korea,Q789790,Ministry of Foreign Trade of North Korea,,Q423,,
-Q113947226,Minister of Forestry,Q24863600,Ministry of Forestry,,Q423,,
-Q114593402,Minister of Higher Education of North Korea,Q24864434,Ministry of Higher Education of North Korea,,Q423,,
-Q113947388,Minister of Justice of North Korea,Q12616767,Ministry of Justice of North Korea,,Q423,,
-Q113947249,Minister of Labor,Q24863552,Ministry of Labor,,Q423,,
-Q114593268,Minister of Land and Environment Protection,Q24864306,Ministry of Land and Environment Protection,,Q423,,
-Q114593273,Minister of Land and Maritime Transport,Q24865051,Ministry of Land and Maritime Transport,,Q423,,
-Q113947277,Minister of Light Industry,Q24863579,Ministry of Light Industry,,Q423,,
-Q114593695,Minister of Local Industry,,,Q423,Q423,,
-Q114593420,Minister of Machine-Building Industry of North Korea,Q24864253,Minister of Machine-Building Industry of North Korea,,Q423,,
-Q114593410,Minister of Metal Industry of the Democratic People's Republic of Korea,Q24863582,Ministry of Metal Industry of the Democratic People's Republic of Korea,,Q423,,
-Q114595547,Minister of National Defence,,,Q423,Q423,,
-Q113947125,Minister of Post and Telecommunications,Q17010275,Ministry of Post and Telecommunications,,Q423,,
-Q113947138,Minister of Public Health of North Korea,Q24863876,Ministry of Public Health of North Korea,,Q423,,
-Q114593696,Minister of Railways,,,Q423,Q423,,
-Q114593697,Minister of Shipbuilding,,,Q423,Q423,,
-Q114594510,Minister of Social Security,Q6867439,Ministry of Social Security,,Q423,,
-Q114593684,Minister of Sports of the Democratic People's Republic of Korea,Q24865078,Ministry of Sports of the Democratic People's Republic of Korea,,Q423,,
-Q113947301,Minister of State Construction Control,Q25842486,Ministry of State Construction Control,,Q423,,
-Q113947341,Minister of State Natural Resources Development,Q109464459,Ministry of State Natural Resources Development,,Q423,,
-Q114594459,Minister of State Security,Q858054,State Security Department,,Q423,,
-Q114593457,Minister of Urban Management of the Democratic People's Republic of Korea,Q24863631,Ministry of Urban Management of the Democratic People's Republic of Korea,,Q423,,
-Q114593340,Minister of the Coal Industry of North Korea,Q24863542,Ministry of the Coal Industry of North Korea,,Q423,,
-Q114593639,Minister of the Electric Power Industry of North Korea,Q24864505,Ministry of the Electric Power Industry of North Korea,,Q423,,
-Q114593368,Minister of the Electronics Industry of North Korea,Q24863921,Ministry of the Electronics Industry of North Korea,,Q423,,
-Q114593665,Minister of the Extraction Industry of North Korea,Q24864204,Ministry of the Extraction Industry of North Korea,,Q423,,
-Q7240364,Premier of North Korea,,,Q423,Q423,1948,
-Q114593490,President of the Academy of Sciences of the Democratic People's Republic of Korea,Q24864420,Academy of Sciences of the Democratic People's Republic of Korea,Q423,Q423,,
-Q114593549,President of the Board of Education,Q24867489,Board of Education,Q423,,,
-Q114593476,President of the Central Bank of the Democratic People's Republic of Korea,Q1141425,Central Bank of the Democratic People's Republic of Korea,Q423,,,
-Q114593614,Secretary General of the Cabinet,Q109464465,Cabinet Secretariat,,Q423,,
-Q24863173,Vice Premier of North Korea,,,Q423,,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114595966,Chairperson of the Capital Construction Commission,Q109535313,Capital Construction Commission,Q423,,,,1
+Q114595975,Chairperson of the Committee for the Peaceful Reunification of the Fatherland,Q6743389,Committee for the Peaceful Reunification of the Fatherland,Q423,,,,1
+Q114595955,Chairperson of the National Censorship Committee,Q16182185,National Censorship Committee,Q423,,,,1
+Q114595971,Chairperson of the National Quality Management Commission,Q109535309,National Quality Management Commission,Q423,,,,1
+Q114593584,Chairperson of the State Planning Commission of North Korea,Q24863725,State Planning Commission of North Korea,Q423,,,,1
+Q114595950,Chairperson of the State Price Commission,Q109534476,State Price Commission,Q423,,,,1
+Q114593575,Chairperson of the State Science and Technology Commission,Q24863695,State Science and Technology Commission,Q423,,,,2
+Q114593604,Director of the Central Bureau of Statistics of North Korea,Q28942281,Central Bureau of Statistics of North Korea,Q423,,,,1
+Q114595990,Director of the National Aerospace Development Administration,Q17124852,National Aerospace Development Administration,Q423,,,,1
+Q114593691,Minister of Agriculture,,,Q423,Q423,,,1
+Q113947153,Minister of Atomic Energy Industry,Q105271600,Ministry of Atomic Energy Industry,,Q423,,,1
+Q114593315,Minister of Chemical Industry of North Korea,Q24864198,Ministry of Chemical Industry of North Korea,,Q423,,,1
+Q114593358,Minister of Commerce,Q16182211,Ministry of Commerce,,Q423,,,2
+Q113947161,Minister of Construction and Building-Materials Industry,Q24863823,Ministry of Construction and Building-Materials Industry,,Q423,,,1
+Q114593693,Minister of Consumer Goods Industry,,,Q423,Q423,,,1
+Q114593431,Minister of Crude Oil of North Korea,Q25842485,Ministry of Crude Oil of North Korea,,Q423,,,1
+Q113947195,Minister of Culture,Q24863611,Ministry of Culture,,Q423,,,1
+Q113947130,Minister of Finance (North Korea),Q16182222,Ministry of Finance (North Korea),Q423,Q423,,,1
+Q114593389,Minister of Fisheries of North Korea,Q24863720,Ministry of Fisheries of North Korea,,Q423,,,1
+Q114593694,Minister of Food Procurement and Administration,,,Q423,Q423,,,2
+Q113470538,Minister of Foreign Affairs of the Democratic People's Republic of Korea,Q15507076,Ministry of Foreign Affairs of the Democratic People's Republic of Korea,,Q423,,,8
+Q113947137,Minister of Foreign Trade of North Korea,Q789790,Ministry of Foreign Trade of North Korea,,Q423,,,2
+Q113947226,Minister of Forestry,Q24863600,Ministry of Forestry,,Q423,,,1
+Q114593402,Minister of Higher Education of North Korea,Q24864434,Ministry of Higher Education of North Korea,,Q423,,,2
+Q113947388,Minister of Justice of North Korea,Q12616767,Ministry of Justice of North Korea,,Q423,,,0
+Q113947249,Minister of Labor,Q24863552,Ministry of Labor,,Q423,,,1
+Q114593268,Minister of Land and Environment Protection,Q24864306,Ministry of Land and Environment Protection,,Q423,,,1
+Q114593273,Minister of Land and Maritime Transport,Q24865051,Ministry of Land and Maritime Transport,,Q423,,,1
+Q113947277,Minister of Light Industry,Q24863579,Ministry of Light Industry,,Q423,,,1
+Q114593695,Minister of Local Industry,,,Q423,Q423,,,1
+Q114593420,Minister of Machine-Building Industry of North Korea,Q24864253,Minister of Machine-Building Industry of North Korea,,Q423,,,2
+Q114593410,Minister of Metal Industry of the Democratic People's Republic of Korea,Q24863582,Ministry of Metal Industry of the Democratic People's Republic of Korea,,Q423,,,1
+Q114595547,Minister of National Defence,,,Q423,Q423,,,1
+Q113947125,Minister of Post and Telecommunications,Q17010275,Ministry of Post and Telecommunications,,Q423,,,1
+Q113947138,Minister of Public Health of North Korea,Q24863876,Ministry of Public Health of North Korea,,Q423,,,1
+Q114593696,Minister of Railways,,,Q423,Q423,,,1
+Q114593697,Minister of Shipbuilding,,,Q423,Q423,,,1
+Q114594510,Minister of Social Security,Q6867439,Ministry of Social Security,,Q423,,,2
+Q114593684,Minister of Sports of the Democratic People's Republic of Korea,Q24865078,Ministry of Sports of the Democratic People's Republic of Korea,,Q423,,,1
+Q113947301,Minister of State Construction Control,Q25842486,Ministry of State Construction Control,,Q423,,,1
+Q113947341,Minister of State Natural Resources Development,Q109464459,Ministry of State Natural Resources Development,,Q423,,,1
+Q114594459,Minister of State Security,Q858054,State Security Department,,Q423,,,2
+Q114593457,Minister of Urban Management of the Democratic People's Republic of Korea,Q24863631,Ministry of Urban Management of the Democratic People's Republic of Korea,,Q423,,,1
+Q114593340,Minister of the Coal Industry of North Korea,Q24863542,Ministry of the Coal Industry of North Korea,,Q423,,,1
+Q114593639,Minister of the Electric Power Industry of North Korea,Q24864505,Ministry of the Electric Power Industry of North Korea,,Q423,,,1
+Q114593368,Minister of the Electronics Industry of North Korea,Q24863921,Ministry of the Electronics Industry of North Korea,,Q423,,,1
+Q114593665,Minister of the Extraction Industry of North Korea,Q24864204,Ministry of the Extraction Industry of North Korea,,Q423,,,1
+Q7240364,Premier of North Korea,,,Q423,Q423,1948,,10
+Q114593490,President of the Academy of Sciences of the Democratic People's Republic of Korea,Q24864420,Academy of Sciences of the Democratic People's Republic of Korea,Q423,Q423,,,1
+Q114593549,President of the Board of Education,Q24867489,Board of Education,Q423,,,,1
+Q114593476,President of the Central Bank of the Democratic People's Republic of Korea,Q1141425,Central Bank of the Democratic People's Republic of Korea,Q423,,,,1
+Q114593614,Secretary General of the Cabinet,Q109464465,Cabinet Secretariat,,Q423,,,1
+Q24863173,Vice Premier of North Korea,,,Q423,,,,27
