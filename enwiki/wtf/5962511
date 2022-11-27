@@ -83,11 +83,16 @@
               ]
             },
             {
-              "text": "He is a grandson of Kim Il-sung (who was the founder and first supreme leader of North Korea from its establishment in 1948 until his death in 1994) and the first leader of North Korea to have been born in the country after its founding in 1948.",
+              "text": "He is a grandson of Kim Il-sung, who was the founder and first supreme leader of North Korea from its establishment in 1948 until his death in 1994.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Kim Il-sung"
+                },
+                {
+                  "text": "its establishment",
+                  "type": "internal",
+                  "page": "Division of Korea"
                 },
                 {
                   "text": "his death",
@@ -95,6 +100,9 @@
                   "page": "Death and state funeral of Kim Il-sung"
                 }
               ]
+            },
+            {
+              "text": "Kim Jong-un is the first leader of North Korea to have been born in the country after its founding in 1948."
             }
           ]
         },
