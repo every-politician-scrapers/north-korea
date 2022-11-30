@@ -245,13 +245,22 @@
               ]
             },
             {
-              "text": "Following the death of [[Kim Jong-il on December 17, 2011, was included as a member of the funeral commission. He was re-elected as a representative to the 13th convocation of the Supreme People's Assembly held on March 9, 2014, and was appointed as the commander of the 7th Corps as a Lieutenant General of the Korean People's Army, although the date of his appointment is unknown. He was re-elected as a member of the Central Committee 7th Congress of the Workers' Party of Korea in May 2016.",
+              "text": "Following the death of Kim Jong-il on December 17, 2011, was included as a member of the funeral commission.",
               "links": [
                 {
                   "text": "Following the death",
                   "type": "internal",
                   "page": "Death and funeral of Kim Jong-il"
                 },
+                {
+                  "type": "internal",
+                  "page": "Kim Jong-il"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected as a representative to the 13th convocation of the Supreme People's Assembly held on March 9, 2014, and was appointed as the commander of the 7th Corps as a Lieutenant General of the Korean People's Army, although the date of his appointment is unknown.",
+              "links": [
                 {
                   "text": "13th convocation",
                   "type": "internal",
@@ -261,7 +270,12 @@
                   "text": "7th Corps",
                   "type": "internal",
                   "page": "VII Corps (North Korea)"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected as a member of the Central Committee 7th Congress of the Workers' Party of Korea in May 2016.",
+              "links": [
                 {
                   "text": "7th Congress of the Workers' Party of Korea",
                   "type": "internal",
