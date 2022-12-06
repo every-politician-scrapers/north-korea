@@ -3334,6 +3334,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Socialist Corporate Responsible Management System",
+          "lan1": "ko",
+          "text1": "사회주의 기업 책임 관리제",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "last1": "Carlin",
