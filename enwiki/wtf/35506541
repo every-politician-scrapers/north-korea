@@ -131,6 +131,18 @@
           "template": "birth date and age"
         },
         {
+          "template": "infobox",
+          "type": "korean name",
+          "data": {
+            "child": {},
+            "hangul": {},
+            "hanja": {},
+            "rr": {},
+            "mr": {},
+            "context": {}
+          }
+        },
+        {
           "titlestyle": "background-color:#FCF;text-align:center;",
           "title": "Central institution membership",
           "bullets": "on",
@@ -159,26 +171,6 @@
         }
       ],
       "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "hangul": {
-            "text": "최룡해"
-          },
-          "hanja": {
-            "text": "崔龍海"
-          },
-          "rr": {
-            "text": "Choe Ryonghae"
-          },
-          "mr": {
-            "text": "Ch'oe Ryonghae"
-          },
-          "context": {
-            "text": "north"
-          }
-        },
         {
           "honorific_prefix": {
             "text": "Vice Marshal",

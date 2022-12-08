@@ -86,6 +86,16 @@
           "template": "linktext"
         },
         {
+          "template": "infobox",
+          "type": "korean name",
+          "data": {
+            "child": {},
+            "rr": {},
+            "mr": {},
+            "context": {}
+          }
+        },
+        {
           "hangul": "박태성",
           "context": "north",
           "labels": "no",
@@ -93,20 +103,6 @@
         }
       ],
       "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "rr": {
-            "text": "Bak Taeseong"
-          },
-          "mr": {
-            "text": "Pak T'aesŏng"
-          },
-          "context": {
-            "text": "north"
-          }
-        },
         {
           "name": {
             "text": "Pak Thae-song"

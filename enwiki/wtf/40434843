@@ -231,150 +231,58 @@
           "template": "ubl"
         },
         {
+          "template": "infobox",
+          "type": "officeholder",
+          "data": {
+            "embed": {},
+            "office1": {},
+            "term_start1": {},
+            "term_end1": {},
+            "successor1": {},
+            "office2": {},
+            "term_start2": {},
+            "term_end2": {},
+            "2blankname2": {},
+            "2namedata2": {},
+            "term_start3": {},
+            "2blankname3": {},
+            "2namedata3": {},
+            "office3": {}
+          }
+        },
+        {
+          "template": "infobox",
+          "type": "korean name",
+          "data": {
+            "child": {},
+            "hangul": {},
+            "rr": {},
+            "mr": {},
+            "hanja": {},
+            "context": {}
+          }
+        },
+        {
           "list": [
             "3rd Army Corps 2002 to 2007",
             "5th Army Corps 2007 to 2012"
           ],
           "template": "ubl"
+        },
+        {
+          "template": "infobox",
+          "type": "military person",
+          "data": {
+            "embed": {},
+            "allegiance": {},
+            "branch": {},
+            "rank": {},
+            "serviceyears": {},
+            "commands": {}
+          }
         }
       ],
       "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office1": {
-            "text": "Minister of Social Security",
-            "links": [
-              {
-                "text": "Minister of Social Security",
-                "type": "internal",
-                "page": "Ministry of Social Security (North Korea)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2019",
-            "number": 2019
-          },
-          "term_end1": {
-            "text": "2021",
-            "number": 2021
-          },
-          "successor1": {
-            "text": "Jang Jong-nam"
-          },
-          "office2": {
-            "text": "Chief of the General Staff",
-            "links": [
-              {
-                "text": "Chief of the General Staff",
-                "type": "internal",
-                "page": "General Staff Department of the Korean People's Army"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "August 2013"
-          },
-          "term_end2": {
-            "text": "January 2016"
-          },
-          "2blankname2": {
-            "text": "Supreme Commander"
-          },
-          "2namedata2": {
-            "text": "Kim Jong-il\n\nKim Jong-un"
-          },
-          "term_start3": {
-            "text": "September 29, 2021"
-          },
-          "2blankname3": {
-            "text": "Supreme Commander"
-          },
-          "2namedata3": {
-            "text": "Kim Jong-un",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kim Jong-un"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of National Defense",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of National Defense"
-              }
-            ]
-          }
-        },
-        {
-          "child": {
-            "text": "yes"
-          },
-          "hangul": {
-            "text": "리영길"
-          },
-          "rr": {
-            "text": "I Yeonggil"
-          },
-          "mr": {
-            "text": "Ri Yŏnggil"
-          },
-          "hanja": {
-            "text": "李永吉"
-          },
-          "context": {
-            "text": "north"
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "allegiance": {
-            "text": "Korean People's Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Korean People's Army"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Korean People's Army Ground Force",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Korean People's Army Ground Force"
-              }
-            ]
-          },
-          "rank": {
-            "text": "Ch'asu (Vice Marshal)",
-            "links": [
-              {
-                "text": "''Ch'asu''",
-                "type": "internal",
-                "page": "Chasu"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Ch'asu"
-              ]
-            }
-          },
-          "serviceyears": {
-            "text": "1970s–present"
-          },
-          "commands": {
-            "text": "3rd Army Corps 2002 to 2007\n\n5th Army Corps 2007 to 2012"
-          }
-        },
         {
           "honorific_prefix": {
             "text": "Vice Marshal"

@@ -453,6 +453,20 @@
           "template": "linktext"
         },
         {
+          "template": "infobox",
+          "type": "korean name",
+          "data": {
+            "child": {},
+            "title": {},
+            "image": {},
+            "image_size": {},
+            "caption": {},
+            "context": {},
+            "rr": {},
+            "mr": {}
+          }
+        },
+        {
           "list": [
             "Kim"
           ],
@@ -494,50 +508,6 @@
         }
       ],
       "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "title": {
-            "text": "Kim Jong-un or Kim Jong Un",
-            "formatting": {
-              "bold": [
-                "Kim Jong-un",
-                "Kim Jong Un"
-              ]
-            }
-          },
-          "image": {
-            "text": "Kim Jong-un (Korean and Chinese characters).svg"
-          },
-          "image_size": {
-            "text": "160px"
-          },
-          "caption": {
-            "text": "\"Kim Jong-un\" in Chosŏn'gŭl (top) and hancha (bottom) scripts",
-            "links": [
-              {
-                "text": "Chosŏn'gŭl",
-                "type": "internal",
-                "page": "Hangul"
-              },
-              {
-                "text": "hancha",
-                "type": "internal",
-                "page": "Hanja"
-              }
-            ]
-          },
-          "context": {
-            "text": "north"
-          },
-          "rr": {
-            "text": "Gim Jeong(-)eun"
-          },
-          "mr": {
-            "text": "Kim Chŏngŭn"
-          }
-        },
         {
           "honorific-prefix": {
             "text": "Respected Comrade\n\nMarshal of the Republic"
