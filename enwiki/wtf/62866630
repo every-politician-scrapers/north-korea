@@ -87,22 +87,26 @@
           "template": "linktext"
         },
         {
-          "template": "infobox",
-          "type": "korean name",
-          "data": {
-            "child": {},
-            "rr": {},
-            "mr": {},
-            "context": {}
-          }
-        },
-        {
           "hangul": "리선권",
           "context": "north",
           "template": "korean"
         }
       ],
       "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "rr": {
+            "text": "Ri Seongwon"
+          },
+          "mr": {
+            "text": "Ri Sŏn'gwŏn"
+          },
+          "context": {
+            "text": "north"
+          }
+        },
         {
           "honorific_prefix": {
             "text": "Senior Colonel",

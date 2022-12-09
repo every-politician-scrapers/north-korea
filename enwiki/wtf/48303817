@@ -148,21 +148,29 @@
         {
           "birth_year": "1961",
           "template": "birth year and age"
-        },
-        {
-          "template": "infobox",
-          "type": "korean name",
-          "data": {
-            "child": {},
-            "hangul": {},
-            "hanja": {},
-            "rr": {},
-            "mr": {},
-            "context": {}
-          }
         }
       ],
       "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "hangul": {
+            "text": "김덕훈"
+          },
+          "hanja": {
+            "text": "金德訓"
+          },
+          "rr": {
+            "text": "Gim Deok-hun"
+          },
+          "mr": {
+            "text": "Kim Tŏkhun"
+          },
+          "context": {
+            "text": "north"
+          }
+        },
         {
           "name": {
             "text": "Kim Tok-hun"
