@@ -702,7 +702,7 @@
             }
           },
           "birth_date": {
-            "text": "January 8, 1982"
+            "text": "January 8, 1982 (alleged)"
           },
           "birth_place": {
             "text": "Pyongyang, North Korea",
@@ -896,7 +896,7 @@
               ]
             },
             {
-              "text": "Before 2018 the US Treasury Department listed Kim Jong-un's official birthdate as 8 January 1984.",
+              "text": "Before 2018, the US Treasury Department listed Kim Jong-un's official birthdate as 8 January 1984.",
               "links": [
                 {
                   "type": "internal",
