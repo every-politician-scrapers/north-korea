@@ -10,7 +10,7 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Image'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
