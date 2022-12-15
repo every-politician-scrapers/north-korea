@@ -100,7 +100,7 @@ Q9310192,Ri Thae-nam,NormalRank,Q705815,Yomju County,true,true,true,false,false,
 Q9353635,Thae Jong-su,NormalRank,Q109361,North Hamgyong Province,true,true,true,false,false,false,true
 Q97162070,Rim Kwang-il,,,,,,false,,,,
 Q97165506,Pak Yong-il,NormalRank,Q423,North Korea,true,false,true,false,false,true,true
-Q10665,Kim Jong-il,PreferredRank,Q501499,Vyatskoye,true,true,true,false,true,false,false
+Q10665,Kim Jong-il,NormalRank,Q501499,Vyatskoye,true,true,true,false,true,false,false
 Q10665,Kim Jong-il,NormalRank,Q196934,Ussuriysk,true,true,true,false,false,false,false
 Q56226,Kim Jong-un,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
 Q58214,Pak Ui-chun,NormalRank,Q18808,Pyongyang,true,true,true,false,false,false,true
