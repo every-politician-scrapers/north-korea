@@ -16,6 +16,12 @@
           "sentences": [
             {
               "text": "Kim Sung-du (김승두; born March 1, 1958) is a politician of the Democratic People's Republic of Korea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic People's Republic of Korea"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Kim Sung-du"
