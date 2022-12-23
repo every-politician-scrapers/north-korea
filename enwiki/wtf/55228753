@@ -32,6 +32,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "description": "Director of the North Korean National Aerospace Development Administration",
+          "template": "short description"
+        }
+      ],
       "references": [
         {
           "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=4953",
