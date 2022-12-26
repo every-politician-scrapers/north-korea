@@ -240,8 +240,64 @@
       ],
       "infoboxes": [
         {
-          "embed": {
+          "child": {
             "text": "yes"
+          },
+          "hangul": {
+            "text": "리영길"
+          },
+          "rr": {
+            "text": "I Yeonggil"
+          },
+          "mr": {
+            "text": "Ri Yŏnggil"
+          },
+          "hanja": {
+            "text": "李永吉"
+          },
+          "context": {
+            "text": "north"
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Vice Marshal"
+          },
+          "name": {
+            "text": "Ri Yong-gil"
+          },
+          "native_name": {
+            "text": "리영길"
+          },
+          "birth_date": {
+            "text": "1952 (age 70)"
+          },
+          "birth_place": {
+            "text": "North Korea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Korea"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of People's Armed Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of People's Armed Forces"
+              }
+            ]
+          },
+          "2blankname": {
+            "text": "Supreme Commander"
+          },
+          "2namedata": {
+            "text": "Kim Jong-il\n\nKim Jong-un"
+          },
+          "term_start": {
+            "text": "September 29, 2021"
           },
           "office1": {
             "text": "Minister of Social Security",
@@ -264,6 +320,18 @@
           "successor1": {
             "text": "Jang Jong-nam"
           },
+          "2blankname2": {
+            "text": "Supreme Commander"
+          },
+          "2namedata2": {
+            "text": "Kim Jong-un",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Jong-un"
+              }
+            ]
+          },
           "office2": {
             "text": "Chief of the General Staff",
             "links": [
@@ -279,61 +347,6 @@
           },
           "term_end2": {
             "text": "January 2016"
-          },
-          "2blankname2": {
-            "text": "Supreme Commander"
-          },
-          "2namedata2": {
-            "text": "Kim Jong-il\n\nKim Jong-un"
-          },
-          "term_start3": {
-            "text": "September 29, 2021"
-          },
-          "2blankname3": {
-            "text": "Supreme Commander"
-          },
-          "2namedata3": {
-            "text": "Kim Jong-un",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kim Jong-un"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of National Defense",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of National Defense"
-              }
-            ]
-          }
-        },
-        {
-          "child": {
-            "text": "yes"
-          },
-          "hangul": {
-            "text": "리영길"
-          },
-          "rr": {
-            "text": "I Yeonggil"
-          },
-          "mr": {
-            "text": "Ri Yŏnggil"
-          },
-          "hanja": {
-            "text": "李永吉"
-          },
-          "context": {
-            "text": "north"
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
           },
           "allegiance": {
             "text": "Korean People's Army",
@@ -373,29 +386,6 @@
           },
           "commands": {
             "text": "3rd Army Corps 2002 to 2007\n\n5th Army Corps 2007 to 2012"
-          }
-        },
-        {
-          "honorific_prefix": {
-            "text": "Vice Marshal"
-          },
-          "name": {
-            "text": "Ri Yong-gil"
-          },
-          "native_name": {
-            "text": "리영길"
-          },
-          "birth_date": {
-            "text": "1952 (age 70)"
-          },
-          "birth_place": {
-            "text": "North Korea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "North Korea"
-              }
-            ]
           }
         }
       ],
