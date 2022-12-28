@@ -148,6 +148,10 @@
         {
           "birth_year": "1961",
           "template": "birth year and age"
+        },
+        {
+          "date": "December 2022",
+          "template": "when?"
         }
       ],
       "infoboxes": [
