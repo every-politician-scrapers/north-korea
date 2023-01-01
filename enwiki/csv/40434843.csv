@@ -1,6 +1,8 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
 40434843,,,,,,,,,0
-40434843,Q114595547,Minister of People's Armed Forces,2021-09-29,,,,,,1
-40434843,Ministry of Social Security (North Korea),Minister of Social Security,2019,2021,,,,Jang Jong-nam,2
-40434843,General Staff Department of the Korean People's Army,Chief of the General Staff,2013-08,2016-01,,,,,3
+40434843,Central Military Commission of the Workers' Party of Korea,Vice Chairman of the Central Military Commission,2023-01-01,,Q16905280,Pak Jong-chon,,,1
+40434843,Ministry of Defence (North Korea),Minister of Defence,2021-09-29,2022-12-28,Kim Jong-gwan,Kim Jong-gwan,Kang Sun-nam,Kang Sun-nam,2
+40434843,Ministry of Social Security (North Korea),Minister of Social Security,2021-01,2021-07,Kim Jong-ho (politician),Kim Jong-ho,,Kim Jong-ho,3
 40434843,,,,,,,,,4
+40434843,General Staff Department of the Korean People's Army,Chief of the General Staff,2013-08,2016-01,Kim Kyok-sik,Kim Kyok-sik,Ri Myong-su,Ri Myong-su,5
+40434843,,,2018-06-04,2019-09-06,,Ri Myong-su,Q16905280,Pak Jong-chon,6
