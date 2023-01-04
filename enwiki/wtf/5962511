@@ -6371,6 +6371,9 @@
       ],
       "templates": [
         {
+          "list": [
+            "2"
+          ],
           "template": "refbegin"
         },
         {
