@@ -2517,6 +2517,10 @@
         {
           "image1": "Satellite imagery show the message \"Long Live General Kim Jong-un, the Shining Sun!\" in Korean on a hillside.",
           "template": "external image"
+        },
+        {
+          "date": "January 2023",
+          "template": "cn"
         }
       ],
       "references": [
@@ -2688,17 +2692,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "title": "State Affairs Commission [ex National Defense Commission] - North Korea",
-          "url": "https://www.globalsecurity.org/military/world/dprk/ndc.htm",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20190325110005/https://www.globalsecurity.org/military/world/dprk/ndc.htm",
-          "archive-date": "25 March 2019",
-          "access-date": "6 January 2020",
-          "website": "GlobalSecurity.org",
-          "template": "citation",
-          "type": "web"
         },
         {
           "date": "2021-01-10",
@@ -5855,12 +5848,6 @@
           "access-date": "30 November 2019",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     },
