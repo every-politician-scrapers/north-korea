@@ -358,7 +358,7 @@
       ]
     },
     {
-      "title": "Biography",
+      "title": "Career",
       "depth": 0,
       "paragraphs": [
         {
@@ -415,11 +415,7 @@
                   "page": "Korean People's Army"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In early February 2016, the South Korean news agency Yonhap reported that Ri had recently been executed on charges of corruption and forming a political faction.",
               "links": [
@@ -645,7 +641,7 @@
       ]
     },
     {
-      "title": "Personal life",
+      "title": "Sanctions",
       "depth": 0,
       "paragraphs": [
         {
@@ -773,6 +769,15 @@
         },
         {
           "template": "north korean marshals"
+        },
+        {
+          "list": [
+            "Biography",
+            "North Korea",
+            "Politics",
+            "Communism"
+          ],
+          "template": "portal bar"
         }
       ]
     }
